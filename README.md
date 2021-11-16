@@ -7,7 +7,7 @@
 5. *You can watch an example of how to solve a challenge in [this video](https://microverse.pathwright.com/library/fast-track-algorithms-data-structures/69123/path/step/113963868/)*
 
 
-## Challenge description
+## Challenge descriptionn
 
 ### Binary Search
 
